@@ -1,0 +1,86 @@
+[
+    {
+      "id": "9901",
+      "brand": "TIFA",
+      "stock": "40",
+      "price": "25000"
+    },
+    {
+      "id": "9902",
+      "brand": "GTMAN",
+      "stock": "20",
+      "price": "29000"
+    },
+    {
+      "id": "9903",
+      "brand": "Calvin Klein",
+      "stock": "70",
+      "price": "45000"
+    },
+    {
+      "id": "9904",
+      "brand": "Durbin",
+      "stock": "45",
+      "price": "26000"
+    },
+    {
+      "id": "9905",
+      "brand": "Kasogi",
+      "stock": "38",
+      "price": "27500"
+    },
+    {
+      "id": "9906",
+      "brand": "Speed",
+      "stock": "50",
+      "price": "24500"
+    },
+    {
+      "id": "9907",
+      "brand": "Diore",
+      "stock": "42",
+      "price": "26000"
+    },
+    {
+      "id": "9908",
+      "brand": "Crocodile",
+      "stock": "47",
+      "price": "27000"
+    },
+    {
+      "id": "9909",
+      "brand": "Marks and Spencer",
+      "stock": "40",
+      "price": "26500"
+    },
+    {
+      "id": "9910",
+      "brand": "Durban",
+      "stock": "55",
+      "price": "25500"
+    },
+    {
+      "id": "9911",
+      "brand": "Muscle Fit",
+      "stock": "49",
+      "price": "26800"
+    },
+    {
+      "id": "9912",
+      "brand": "Rider Sport",
+      "stock": "53",
+      "price": "26200"
+    },
+    {
+      "id": "9913",
+      "brand": "Braveman",
+      "stock": "44",
+      "price": "25800"
+    },
+    {
+      "id": "9914",
+      "brand": "Hicoop",
+      "stock": "41",
+      "price": "27000"
+    }
+  ]
